@@ -2,11 +2,11 @@
 
 ## 📌 Project Overview
 
-This project aims to analyze the global impact of the COVID-19 pandemic using publicly available data. It involves performing descriptive, exploratory, and inferential analysis to extract key insights regarding infection rates, mortality, recovery trends, and testing patterns across different countries and continents.
+This project aims to analyze the global impact of the COVID-19 pandemic using publicly available data. It involves performing descriptive, exploratory, and inferential analysis to extract key insights regarding infection rates, mortality, recovery trends, and testing patterns across different countries and continents. This project for me is the favourite because it uses "Plotly" libraray to present the visulaizations and finding. I prefer Plotly library for the visualization because we can present so many insights / findings in just 1 plot. We can include the findings not just on X and Y axis but we can present more insights in its colors and also on the hover over data. Also the plotly libray brings to life the visualization than the normal boring visualization provided by Matplot Lib.  
 
 By leveraging data visualization and statistical techniques, the project seeks to answer critical questions such as:
 
-- Which countries and continents were most affected?
+- Which countries / continents / region were most affected i.e, Total cases, Total Death, Total Tests?
 - How did testing correlate with case and death rates?
 - What are the trends in recovery and mortality?
 - How did population size influence COVID-19 spread?
@@ -15,7 +15,9 @@ By leveraging data visualization and statistical techniques, the project seeks t
 
 ## 📊 Dataset Description
 
-The dataset contains country-level statistics related to COVID-19, structured with the following columns:
+Here we are using 3 different data sets named as "Covid Dataset", "Covid Grouped Dataset", "Covid Death Dataset". I have mentioned the detailed explaition of each dataset below. 
+
+# 1. Covid_dataset
 
 | Column Name           | Description |
 |-----------------------|-------------|
@@ -37,6 +39,41 @@ The dataset contains country-level statistics related to COVID-19, structured wi
 | **WHO Region**        | WHO-defined regional classification |
 | **iso_alpha**         | ISO 3166-1 alpha-3 country code |
 
+
+
+# 2. Covid_Grouped_dataset
+
+| Column Name           | Description |
+|-----------------------|-------------|
+| **Date**              | Date of the covid confirmation |
+| **Country/Region**    | Name of the country or region |
+| **Confirmed**         | Number of confirmed cases |
+| **Deaths**            | Number of deaths |
+| **Recovered**         | Number of recovered cases |
+| **Active**            | Number of Active cases |
+| **New cases**         | Number of New cases |
+| **New recovered**     | Number of New recovered	 |
+| **WHO Region**        | WHO-defined regional classification	 |
+| **iso_alpha**         |ISO 3166-1 alpha-3 country code |
+
+
+# 3. Covid_Death_dataset
+
+| Column Name                   | Description |
+|-------------------------------|-------------|
+| **Data as of**                | Date of the covid confirmation |
+| **Start Week**                | Indicates the start of week |
+| **End Week**                  | Indicates the end of week |
+| **State**                     | The state that belongs to in US |
+| **Condition Group**           | Medical group to which it belongs to |
+| **Condition**                 | It states what medical condition the patient is facing with |
+| **ICD10_codes**               | The medical code for that condition |
+| **Age Group**                 | The age group to which the patient belongs to |
+| **Number of COVID-19 Deaths** | Indicated the start of week |
+
+
+
+
 ---
 
 ## 🔍 Objectives
@@ -53,7 +90,6 @@ The dataset contains country-level statistics related to COVID-19, structured wi
 
 - **Python Libraries**: pandas, numpy, matplotlib, seaborn, plotly
 - **Data Cleaning**: Handling missing values, standardizing column names, type conversion
-- **Exploratory Data Analysis (EDA)**: Summary statistics, correlation analysis
 - **Data Visualization**: Bar plots, line charts, scatter plots, choropleth maps
 - **Statistical Analysis**: Per capita metrics, distribution analysis, regional comparisons
 
@@ -62,7 +98,7 @@ The dataset contains country-level statistics related to COVID-19, structured wi
 ## 📈 Sample Analyses
 
 - Top 10 countries with highest total cases and deaths
-- Correlation heatmap between population, cases, deaths, and tests
+- Correlation between population, cases, deaths, and tests
 - Comparative analysis of testing rates vs. infection rates
 - Active vs. recovered cases over time per continent
 - Mapping deaths per million using geo-visualization
