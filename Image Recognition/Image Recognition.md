@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project aims to build an image classification model using deep learning techniques. Image recognition involves the process of identifying and classifying objects, patterns, or features in images. It's widely used in applications such as facial recognition, self-driving cars, medical imaging, and more.
+This project aims to build an image classification model using deep learning techniques. Image recognition involves the process of identifying and classifying objects, patterns, or features in images. It's widely used in applications such as facial recognition, self-driving cars, medical imaging, and more.  For example a model can be trained to identify difference between different types of flowers, animals or traffic signs. In this project, we will use Tensorflow and Keras to build a simple image recognition model.
 
 ---
 
@@ -15,16 +15,7 @@ The main objective is to classify images into predefined categories using a conv
 ## 🖼️ Dataset Overview
 
 The dataset used typically contains labeled images sorted into directories based on categories.
-
-### 🔑 Example Features:
-- RGB images of fixed size (e.g., 64x64 or 128x128 pixels)
-- Multiple classes (e.g., cats vs. dogs, digits, clothing items, etc.)
-- Balanced or imbalanced label distribution
-
-If a known dataset is used:
-> **Example:** CIFAR-10, MNIST, or custom dataset with folder structure:
-
-
+We will be using flower dataset which contains 3,670 images with five classes labeled as daisy, dandelion, roses, sunflowers and tulips. Here, pathlib library is used to handle the path names of the downloaded image file.
 
 ---
 
@@ -49,8 +40,7 @@ If a known dataset is used:
 - **Language:** Python
 - **Environment:** Jupyter Notebook
 - **Libraries Used:**
-  - `numpy`, `pandas` for data handling
-  - `matplotlib`, `seaborn` for visualization
+  - `numpy`, `matplotlib` for data handling and visualization
   - `tensorflow`, `keras` or `pytorch` for deep learning
   - `sklearn` for evaluation metrics
 
