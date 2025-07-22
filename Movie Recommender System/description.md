@@ -4,23 +4,21 @@
 
 Recommender Systems provide personalized suggestions for items that are most relevant to each user by predicting preferences according to user's past choices. They are used in various areas like movies, music, news, search queries, etc. These recommendations are made in two ways: 
 
-Collaborative filtering: Collaborative filtering makes recommendations based on user's past behavior and similar decisions made by other users to predict items user may be interested in. For example, if User A likes movies X and Y and User B likes Y and Z then system might recommend movie Z to User A.
-Content-based filtering: Content-based filtering recommends items based on the features of the items and the user's past preferences. For example, if a user likes action movies the system will recommend other action movies based on genres, actors or directors.
+1. Collaborative filtering: Collaborative filtering makes recommendations based on user's past behavior and similar decisions made by other users to predict items user may be interested in. For example, if User A likes movies X and Y and User B likes Y and Z then system might recommend movie Z to User A.
+2. Content-based filtering: Content-based filtering recommends items based on the features of the items and the user's past preferences. For example, if a user likes action movies the system will recommend other action movies based on genres, actors or directors.
+
 
 ## 📊 Dataset Overview
 
-The dataset used in this project includes metadata about movies, such as:
-- Movie titles
-- Genres
-- Cast and crew
-- Overview or description
-- User ratings (if collaborative filtering is used)
+In this project we are using 2 datasets namely "file.tsv" and "Movie_Id_Titles.csv". We combine both the datasets into a single csv file which contains the following column names as attributes: 
 
-### 🔑 Key Features:
-- `title`, `genres`, `keywords`, `overview`
-- `cast`, `crew`, `tagline`
-- `vote_average`, `vote_count`
-- `id`, `popularity`, `release_date`
+| Column Name           | Description |
+|-----------------------|-------------|
+| **user_id**           | Unique ID for every row |
+| **item_id**           | Indicates the category to this movie belongs to |
+| **rating**            | Indicates the rating that particular movie has got |
+| **timestamp**         | Indicates the timestamp that rating |
+| **title**             | It states the name of the movie |
 
 ---
 
