@@ -16,22 +16,30 @@ The goal is to predict housing prices based on various attributes such as square
 
 The dataset contains housing data with multiple explanatory variables describing various aspects of residential homes in a specific area (e.g., Ames, Iowa).
 
-### 🔑 Key Features
-- `OverallQual`: Overall material and finish quality
-- `GrLivArea`: Above grade (ground) living area in square feet
-- `GarageCars`: Size of garage in car capacity
-- `TotalBsmtSF`: Total square feet of basement area
-- `FullBath`, `TotRmsAbvGrd`, `YearBuilt`, etc.
-- `SalePrice`: Target variable (house price)
+| Column Name           | Description |
+|-----------------------|-------------|
+| **Id**                | To count the records. |
+| **MSSubClass**        | Identifies the type of dwelling involved in the sale. |
+| **MSZoning**          | Identifies the general zoning classification of the sale. |
+| **LotArea**           | Lot size in square feet. |
+| **LotConfig**         | Configuration of the lot. |
+| **BldgType**          | Type of dwelling |
+| **OverallCond**       | Rates the overall condition of the house. |
+| **YearBuilt**         | Original construction year |
+| **YearRemodAdd**      | Remodel date (same as construction date if no remodeling or additions). |
+| **Exterior1st**       | Exterior covering on house. |
+| **BsmtFinSF2**        | Type 2 finished square feet. |
+| **TotalBsmtSF**       | Total square feet of basement area. |
+| **SalePrice**         | To be predicted. |
 
 ---
 
 ## 🔍 Objectives
 
-1. Understand relationships between features and house prices.
+1. Understand co - relationships between all the features in the data set and checking the columns which have have co - relationship.
 2. Perform data cleaning and preprocessing.
 3. Apply regression models to predict house prices.
-4. Evaluate model performance using metrics like RMSE and R².
+4. Evaluate model performance the model's accuracy.
 5. Optimize the model using techniques like feature selection and regularization.
 
 ---
@@ -44,7 +52,6 @@ The dataset contains housing data with multiple explanatory variables describing
   - `pandas`, `numpy` for data handling
   - `matplotlib`, `seaborn` for visualization
   - `scikit-learn` for machine learning
-  - `xgboost` (optional) for advanced regression
 
 ---
 
@@ -61,15 +68,11 @@ The dataset contains housing data with multiple explanatory variables describing
 ## 🤖 Machine Learning Models
 
 - **Linear Regression**
-- **Ridge and Lasso Regression**
-- **Decision Tree Regressor**
+- **Support Vector Machine**
 - **Random Forest Regressor**
-- **Gradient Boosting / XGBoost** (if used)
 
-Model performance is evaluated using:
-- Root Mean Squared Error (RMSE)
-- R² Score
-- Cross-validation accuracy
+
+
 
 ---
 
