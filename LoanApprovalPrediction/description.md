@@ -14,15 +14,24 @@ Financial institutions face the challenge of assessing a borrower's eligibility 
 
 ## 📊 Dataset Overview
 
-The dataset includes information about loan applicants such as income, credit history, education, employment status, and more, along with a target label indicating whether the loan was approved.
+The dataset includes information about loan applicants as mentioned below. 
 
-### 🔑 Key Features
-- `Gender`, `Married`, `Dependents`
-- `Education`, `Self_Employed`
-- `ApplicantIncome`, `CoapplicantIncome`
-- `LoanAmount`, `Loan_Amount_Term`
-- `Credit_History`, `Property_Area`
-- `Loan_Status` (target variable: Y = approved, N = not approved)
+| Column Name           | Description |
+|-----------------------|-------------|
+| **Loan_ID**           | A unique id  |
+| **Gender**            | Gender of the applicant Male/female |
+| **Married**           | Marital Status of the applicant, values will be Yes/ No |
+| **Dependents**        | It tells whether the applicant has any dependents or not. |
+| **Education**         | It will tell us whether the applicant is Graduated or not. |
+| **Self_Employed**     | This defines that the applicant is self-employed i.e. Yes/ No. |
+| **ApplicantIncome**   | ApplicantIncome |
+| **CoapplicantIncome** | Co-applicant income |
+| **LoanAmount**        | Loan amount (in thousands) |
+| **Loan_Amount_Term**  | Terms of loan (in months) |
+| **Credit_History**    | Credit history of individual's repayment of their debts |
+| **Property_Area**     | Area of property i.e. Rural/Urban/Semi-urban  |
+| **Loan_Status**       | Status of Loan Approved or not i.e. Y- Yes, N-No  |
+
 
 ---
 
@@ -58,17 +67,12 @@ The dataset includes information about loan applicants such as income, credit hi
 
 ## 🤖 Machine Learning Models
 
-- **Logistic Regression**
-- **Decision Tree Classifier**
+- **Random Forest Classifier**
+- **K Neighbors Classifier**
 - **Random Forest Classifier**
 - **Support Vector Machine (SVM)**
 - **K-Nearest Neighbors (KNN)**
 
-### 📏 Evaluation Metrics:
-- Accuracy
-- Confusion Matrix
-- Precision, Recall, F1-Score
-- ROC Curve and AUC
 
 ---
 
