@@ -1,6 +1,6 @@
 # Customer Churn Prediction
 
-## 📓 View Notebook
+## 📓 View Notebook (with output)
 [Click here to view the notebook](https://nbviewer.org/github/Nihal-Hiremath/Data-science-projects/blob/main/Customer%20Churn%20Prediction/Customer%20Churn%20Prediction.ipynb)
 
 ![](https://miro.medium.com/v2/resize:fit:1400/1*47xx1oXuebvYwZeB0OutuA.png)
