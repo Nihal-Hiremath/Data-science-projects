@@ -1,4 +1,8 @@
 # E-Commerce Product Delivery Prediction
+
+## 📓 View Notebook
+[Click here to view the notebook](https://nbviewer.org/github/Nihal-Hiremath/Data-science-projects/blob/main/E-Commerce%20Product%20Delivery%20Prediction/E-Commerce%20Product%20Delivery%20Prediction.ipynb)
+
 ![](https://globalskylogistics.com/wp-content/uploads/2018/04/THE-CHANGING-NATURE-OF-E-COMMERCE-DELIVERY.jpg)
 ## Project Overview:
 The aim of this project is to predict whether products from an international e-commerce company will reach customers on time or not. Additionally, the project analyzes various factors influencing product delivery and studies customer behavior. The company primarily sells electronic products.
