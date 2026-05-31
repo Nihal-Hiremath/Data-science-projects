@@ -1,4 +1,9 @@
 # Traffic Flow Prediction
+
+## 📓 View Notebook
+[Click here to view the notebook](https://nbviewer.org/github/Nihal-Hiremath/Data-science-projects/blob/main/Traffic%20Flow%20Prediction/Traffic_flow_prediction.ipynb)
+
+
 <img src = "https://th.bing.com/th/id/R.2f52a356c87d4d40374404cd30140c35?rik=CYZ0xVw1sOqSgQ&riu=http%3a%2f%2fi.huffpost.com%2fgen%2f1324194%2fimages%2fo-DRIVERS-TRAFFIC-facebook.jpg&ehk=AT7XxdZq5EDQ%2fMl%2bQzQuogHdXmQXglRKGUiBVhx4FlU%3d&risl=&pid=ImgRaw&r=0" width = "700" height = "500">
 
 This project aims to predict traffic flow based on historical data, including vehicle counts (cars, bikes, buses, trucks), time, and day of the week. By analyzing this data, we seek to identify patterns in traffic flow, predict traffic situations, and provide actionable insights to manage congestion and improve urban mobility. The model also aids in optimizing traffic control strategies and contributes to sustainability goals by reducing emissions and fuel consumption through better traffic management.
