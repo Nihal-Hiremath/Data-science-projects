@@ -1,5 +1,8 @@
 # Calgary Crime Data Analysis and Neural Network Prediction
 
+## 📓 View Notebook
+[Click here to view the notebook](https://nbviewer.org/github/Nihal-Hiremath/Data-science-projects/blob/main/Calgary%20Crime%20Data%20Analysis%20and%20Neural%20Network%20Model/Calgary_Crime_Data_Analysis_and_Neural_Network_Prediction.ipynb)
+
 ## Introduction
 The aim of this project is to analyze and predict crime trends in Calgary using the Crime and Disorder Data provided by the City of Calgary's data website. The dataset spans from 2018 to 2024, detailing the number of crimes occurring each month in various communities. By thoroughly analyzing this data, we seek to understand the underlying patterns and build a neural network model to forecast future crime occurrences.
 
