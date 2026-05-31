@@ -1,6 +1,6 @@
 # Loan Approval Prediction Using Machine Learning
 
-## 📓 View Notebook
+## 📓 View Notebook (with output)
 [Click here to view the notebook](https://nbviewer.org/github/Nihal-Hiremath/Data-science-projects/blob/main/LoanApprovalPrediction/Loan%20Approval%20Prediction%20using%20Machine%20Learning.ipynb)
 
 
