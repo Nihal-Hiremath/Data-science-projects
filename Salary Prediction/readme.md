@@ -1,6 +1,6 @@
 # Salary Prediction based on Country and Race
 
-## 📓 View Notebook
+## 📓 View Notebook (with output)
 [Click here to view the notebook](https://nbviewer.org/github/Nihal-Hiremath/Data-science-projects/blob/main/Salary%20Prediction/Salary%20Prediction.ipynb)
 
 ![](https://raw.githubusercontent.com/Masterx-AI/Project_Employee_Salary_Prediction_/main/es.jpg)
