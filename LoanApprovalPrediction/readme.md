@@ -1,5 +1,9 @@
 # Loan Approval Prediction Using Machine Learning
 
+## 📓 View Notebook
+[Click here to view the notebook](https://nbviewer.org/github/Nihal-Hiremath/Data-science-projects/blob/main/LoanApprovalPrediction/Loan%20Approval%20Prediction%20using%20Machine%20Learning.ipynb)
+
+
 ## 📌 Project Overview
 
 This project focuses on building a machine learning model to predict whether a loan application will be approved or not based on applicant and loan attributes. It involves data preprocessing, exploratory data analysis (EDA), model training, and performance evaluation using classification algorithms.
