@@ -1,4 +1,8 @@
 # Hotel Reservations Cancellation Prediction
+
+## 📓 View Notebook
+[Click here to view the notebook](https://nbviewer.org/github/Nihal-Hiremath/Data-science-projects/blob/main/Hotel%20Reservations%20Cancellation%20Prediction/Hotel%20Reservations%20Cancelation%20Prediction.ipynb)
+
 ![](https://static.vecteezy.com/system/resources/previews/000/474/062/original/hotel-reservation-conceptual-illustration-design-vector.jpg)
 ## Project Overview:
 
