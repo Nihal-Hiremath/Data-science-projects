@@ -1,5 +1,9 @@
 # Movie Recommender System
 
+## 📓 View Notebook
+[Click here to view the notebook](https://nbviewer.org/github/Nihal-Hiremath/Data-science-projects/blob/main/Movie%20Recommender%20System/Movie%20Recommender%20System.ipynb)
+
+
 ## 📌 Project Overview
 
 Recommender Systems provide personalized suggestions for items that are most relevant to each user by predicting preferences according to user's past choices. They are used in various areas like movies, music, news, search queries, etc. These recommendations are made in two ways: 
