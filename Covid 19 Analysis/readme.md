@@ -1,6 +1,6 @@
 # COVID-19 Analysis
 
-## 📓 View Notebook
+## 📓 View Notebook (with output)
 [Click here to view the notebook](https://nbviewer.org/github/Nihal-Hiremath/Data-science-projects/blob/main/Covid%2019%20Analysis/Covid19%20Analysis.ipynb)
 
 ## 📌 Project Overview
