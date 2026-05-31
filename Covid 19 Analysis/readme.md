@@ -1,5 +1,8 @@
 # COVID-19 Analysis
 
+## 📓 View Notebook
+[Click here to view the notebook](https://nbviewer.org/github/Nihal-Hiremath/Data-science-projects/blob/main/Covid%2019%20Analysis/Covid19%20Analysis.ipynb)
+
 ## 📌 Project Overview
 
 This project aims to analyze the global impact of the COVID-19 pandemic using publicly available data. It involves performing descriptive, exploratory, and inferential analysis to extract key insights regarding infection rates, mortality, recovery trends, and testing patterns across different countries and continents. This project for me is the favourite because it uses "Plotly" libraray to present the visulaizations and finding. I prefer Plotly library for the visualization because we can present so many insights / findings in just 1 plot. We can include the findings not just on X and Y axis but we can present more insights in its colors and also on the hover over data. Also the plotly libray brings to life the visualization than the normal boring visualization provided by Matplot Lib.  
