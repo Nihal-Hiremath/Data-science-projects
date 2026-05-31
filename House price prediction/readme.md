@@ -1,5 +1,8 @@
 # House Price Prediction
 
+## 📓 View Notebook
+[Click here to view the notebook](https://nbviewer.org/github/Nihal-Hiremath/Data-science-projects/blob/main/House%20price%20prediction/House%20price%20prediction.ipynb)
+
 ## 📌 Project Overview
 
 This project focuses on building a predictive model to estimate the sale prices of houses using machine learning. The aim is to apply exploratory data analysis (EDA), feature engineering, and regression techniques to understand which features most impact house prices and to develop a model that can accurately predict prices for unseen data.
