@@ -1,6 +1,6 @@
 # Sleep Disorder Prediction
 
-## 📓 View Notebook
+## 📓 View Notebook (with output)
 [Click here to view the notebook](https://nbviewer.org/github/Nihal-Hiremath/Data-science-projects/blob/main/Sleep%20Disorder%20Prediction/Sleep%20Disorder%20Prediction.ipynb)
 
 ![](https://images.onlymyhealth.com/imported/images/2021/December/20_Dec_2021/big_sleep.jpg)
