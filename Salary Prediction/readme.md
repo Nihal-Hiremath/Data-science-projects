@@ -1,4 +1,8 @@
 # Salary Prediction based on Country and Race
+
+## 📓 View Notebook
+[Click here to view the notebook](https://nbviewer.org/github/Nihal-Hiremath/Data-science-projects/blob/main/Salary%20Prediction/Salary%20Prediction.ipynb)
+
 ![](https://raw.githubusercontent.com/Masterx-AI/Project_Employee_Salary_Prediction_/main/es.jpg)
 ## Project Overview:
 The focus of the Demographic-Based Salary Prediction project is to develop a predictive model that estimates the salaries of individuals from diverse countries and races based on their demographic attributes. These attributes encompass a range of variables, including occupation, age, gender, experience, and education. The dataset for this project, acquired from Kaggle, comprises 32,561 rows and 15 columns, with 8 independent variables and the target variable, "Salary."
