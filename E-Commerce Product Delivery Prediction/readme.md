@@ -1,6 +1,6 @@
 # E-Commerce Product Delivery Prediction
 
-## 📓 View Notebook
+## 📓 View Notebook (with output)
 [Click here to view the notebook](https://nbviewer.org/github/Nihal-Hiremath/Data-science-projects/blob/main/E-Commerce%20Product%20Delivery%20Prediction/E-Commerce%20Product%20Delivery%20Prediction.ipynb)
 
 ![](https://globalskylogistics.com/wp-content/uploads/2018/04/THE-CHANGING-NATURE-OF-E-COMMERCE-DELIVERY.jpg)
