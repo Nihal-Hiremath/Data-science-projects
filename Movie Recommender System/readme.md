@@ -1,6 +1,6 @@
 # Movie Recommender System
 
-## 📓 View Notebook
+## 📓 View Notebook (with output)
 [Click here to view the notebook](https://nbviewer.org/github/Nihal-Hiremath/Data-science-projects/blob/main/Movie%20Recommender%20System/Movie%20Recommender%20System.ipynb)
 
 
