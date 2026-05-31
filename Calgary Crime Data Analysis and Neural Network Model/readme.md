@@ -1,6 +1,6 @@
 # Calgary Crime Data Analysis and Neural Network Prediction
 
-## 📓 View Notebook
+## 📓 View Notebook (with output)
 [Click here to view the notebook](https://nbviewer.org/github/Nihal-Hiremath/Data-science-projects/blob/main/Calgary%20Crime%20Data%20Analysis%20and%20Neural%20Network%20Model/Calgary_Crime_Data_Analysis_and_Neural_Network_Prediction.ipynb)
 
 ## Introduction
