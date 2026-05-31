@@ -1,6 +1,6 @@
 # Warranty Claims Fraud Prediction
 
-## 📓 View Notebook
+## 📓 View Notebook (with output)
 [Click here to view the notebook](https://nbviewer.org/github/Nihal-Hiremath/Data-science-projects/blob/main/Warranty%20Claims%20Fraud%20Prediction/Warranty%20Claims%20Fraud%20Prediction.ipynb)
 
 ![](https://trendsettertelugu.com/wp-content/uploads/2022/12/File-a-warranty-claim.webp)
