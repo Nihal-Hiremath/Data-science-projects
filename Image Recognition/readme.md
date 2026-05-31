@@ -1,6 +1,6 @@
 # Project Description: 🌸 Flower Image Classification using TensorFlow
 
-## 📓 View Notebook
+## 📓 View Notebook (with output)
 [Click here to view the notebook](https://nbviewer.org/github/Nihal-Hiremath/Data-science-projects/blob/main/Image%20Recognition/Image%20Recognition.ipynb)
 
 This project demonstrates the development of a deep learning model to classify images of flowers using TensorFlow and Keras. The dataset used is the publicly available **"flower_photos"** dataset provided by TensorFlow, which contains several categories of flower images, such as roses, tulips, daffodils, dandelions, and sunflowers.
